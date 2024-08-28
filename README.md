@@ -9,8 +9,7 @@ Execution:
 6) Choose option 2 from the menu.
 7) Enter the message you want to decrypt.
 8) Enter the shift value (the same value used to encrypt the message).
-   
-9 )The program will output the decrypted message.
+9) The program will output the decrypted message.
 
  Exit
  Choose option 3 from the menu to exit the program.
