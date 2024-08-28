@@ -10,5 +10,7 @@ Execution:
 8) Enter the message you want to decrypt.
 9) Enter the shift value (the same value used to encrypt the message).
 10 )The program will output the decrypted message.
+
  Exit
+ 
 Choose option 3 from the menu to exit the program.
