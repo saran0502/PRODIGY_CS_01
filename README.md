@@ -12,5 +12,4 @@ Execution:
 10 )The program will output the decrypted message.
 
  Exit
- 
-Choose option 3 from the menu to exit the program.
+ Choose option 3 from the menu to exit the program.
